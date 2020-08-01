@@ -1,2 +1,2 @@
 # hackerrank-and-leetcode-problem-solving
-Solutions to Data Structures and Algorithms problems from hackerrank and leetcode
+This repository contains solutions to problems based on Data structures and Algorithms
